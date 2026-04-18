@@ -121,11 +121,12 @@ Distributed architecture with Product, Cart, Order, Inventory & Payment services
 
 🧠 **AI-Based Crop Recommendation System**  
 Recommends optimal crops using ML models trained on environmental and soil datasets.  
-🔗 *Repo:* https://github.com/utkarshjain45
+🔗 *Repo:* https://github.com/utkarshjain45/Ai-crop-recommendation
 
 🎯 **Quiz Application**  
 A dynamic quiz app with timer, scoring, and question review features.  
-🔗 *Repo:* https://github.com/utkarshjain45
+🔗 *Frontend-Repo:* https://github.com/utkarshjain45/quizora-frontend
+🔗 *Backend-Repo:* https://github.com/utkarshjain45/quizora-backend
 
 ---
 
